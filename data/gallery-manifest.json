@@ -1,0 +1,1621 @@
+{
+  "version": 1,
+  "title": "Oreki Anime Art — High Quality Collection",
+  "target_count": 200,
+  "image_spec": {
+    "format": "WebP",
+    "recommended_resolution": "1536x1024 or higher",
+    "quality": 92,
+    "minimum_checks": [
+      "sharp focal details",
+      "clean anatomy",
+      "no visible AI artifacts",
+      "no watermark",
+      "unique composition",
+      "correct aspect ratio"
+    ]
+  },
+  "note": "This is the production manifest, not a claim that image assets already exist. Only mark an entry ready after its distinct high-resolution artwork has been generated, inspected, and committed.",
+  "artworks": [
+    {
+      "id": "001",
+      "title": "Moonlit Empress",
+      "category": "Character",
+      "image": "assets/artworks/001.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "002",
+      "title": "Obsidian Duelist",
+      "category": "Character",
+      "image": "assets/artworks/002.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "003",
+      "title": "Sakura Oracle",
+      "category": "Character",
+      "image": "assets/artworks/003.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "004",
+      "title": "Sunfire Queen",
+      "category": "Character",
+      "image": "assets/artworks/004.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "005",
+      "title": "Frostbound Princess",
+      "category": "Character",
+      "image": "assets/artworks/005.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "006",
+      "title": "Crimson Ronin",
+      "category": "Character",
+      "image": "assets/artworks/006.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "007",
+      "title": "Celestial Archer",
+      "category": "Character",
+      "image": "assets/artworks/007.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "008",
+      "title": "Rose Knight",
+      "category": "Character",
+      "image": "assets/artworks/008.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "009",
+      "title": "Abyss Mage",
+      "category": "Character",
+      "image": "assets/artworks/009.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "010",
+      "title": "Neon Courier",
+      "category": "Character",
+      "image": "assets/artworks/010.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "011",
+      "title": "Floating Kingdom",
+      "category": "Fantasy",
+      "image": "assets/artworks/011.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "012",
+      "title": "Dragon of Dawn",
+      "category": "Fantasy",
+      "image": "assets/artworks/012.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "013",
+      "title": "Moonlit Shrine",
+      "category": "Fantasy",
+      "image": "assets/artworks/013.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "014",
+      "title": "Crystal Cavern",
+      "category": "Fantasy",
+      "image": "assets/artworks/014.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "015",
+      "title": "Aurora Citadel",
+      "category": "Fantasy",
+      "image": "assets/artworks/015.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "016",
+      "title": "Sunken Palace",
+      "category": "Fantasy",
+      "image": "assets/artworks/016.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "017",
+      "title": "Starfall Garden",
+      "category": "Fantasy",
+      "image": "assets/artworks/017.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "018",
+      "title": "Volcanic Throne",
+      "category": "Fantasy",
+      "image": "assets/artworks/018.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "019",
+      "title": "Sky Harbor",
+      "category": "Environment",
+      "image": "assets/artworks/019.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "020",
+      "title": "Neon Megacity",
+      "category": "Environment",
+      "image": "assets/artworks/020.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "021",
+      "title": "Moonlit Empress — I",
+      "category": "Character",
+      "image": "assets/artworks/021.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "022",
+      "title": "Obsidian Duelist — I",
+      "category": "Character",
+      "image": "assets/artworks/022.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "023",
+      "title": "Sakura Oracle — I",
+      "category": "Character",
+      "image": "assets/artworks/023.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "024",
+      "title": "Sunfire Queen — I",
+      "category": "Character",
+      "image": "assets/artworks/024.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "025",
+      "title": "Frostbound Princess — I",
+      "category": "Character",
+      "image": "assets/artworks/025.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "026",
+      "title": "Crimson Ronin — I",
+      "category": "Character",
+      "image": "assets/artworks/026.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "027",
+      "title": "Celestial Archer — I",
+      "category": "Character",
+      "image": "assets/artworks/027.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "028",
+      "title": "Rose Knight — I",
+      "category": "Character",
+      "image": "assets/artworks/028.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "029",
+      "title": "Abyss Mage — I",
+      "category": "Character",
+      "image": "assets/artworks/029.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "030",
+      "title": "Neon Courier — I",
+      "category": "Character",
+      "image": "assets/artworks/030.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "031",
+      "title": "Floating Kingdom — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/031.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "032",
+      "title": "Dragon of Dawn — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/032.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "033",
+      "title": "Moonlit Shrine — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/033.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "034",
+      "title": "Crystal Cavern — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/034.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "035",
+      "title": "Aurora Citadel — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/035.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "036",
+      "title": "Sunken Palace — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/036.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "037",
+      "title": "Starfall Garden — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/037.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "038",
+      "title": "Volcanic Throne — I",
+      "category": "Fantasy",
+      "image": "assets/artworks/038.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "039",
+      "title": "Sky Harbor — I",
+      "category": "Environment",
+      "image": "assets/artworks/039.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "040",
+      "title": "Neon Megacity — I",
+      "category": "Environment",
+      "image": "assets/artworks/040.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "041",
+      "title": "Moonlit Empress — II",
+      "category": "Character",
+      "image": "assets/artworks/041.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "042",
+      "title": "Obsidian Duelist — II",
+      "category": "Character",
+      "image": "assets/artworks/042.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "043",
+      "title": "Sakura Oracle — II",
+      "category": "Character",
+      "image": "assets/artworks/043.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "044",
+      "title": "Sunfire Queen — II",
+      "category": "Character",
+      "image": "assets/artworks/044.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "045",
+      "title": "Frostbound Princess — II",
+      "category": "Character",
+      "image": "assets/artworks/045.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "046",
+      "title": "Crimson Ronin — II",
+      "category": "Character",
+      "image": "assets/artworks/046.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "047",
+      "title": "Celestial Archer — II",
+      "category": "Character",
+      "image": "assets/artworks/047.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "048",
+      "title": "Rose Knight — II",
+      "category": "Character",
+      "image": "assets/artworks/048.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "049",
+      "title": "Abyss Mage — II",
+      "category": "Character",
+      "image": "assets/artworks/049.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "050",
+      "title": "Neon Courier — II",
+      "category": "Character",
+      "image": "assets/artworks/050.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "051",
+      "title": "Floating Kingdom — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/051.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "052",
+      "title": "Dragon of Dawn — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/052.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "053",
+      "title": "Moonlit Shrine — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/053.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "054",
+      "title": "Crystal Cavern — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/054.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "055",
+      "title": "Aurora Citadel — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/055.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "056",
+      "title": "Sunken Palace — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/056.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "057",
+      "title": "Starfall Garden — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/057.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "058",
+      "title": "Volcanic Throne — II",
+      "category": "Fantasy",
+      "image": "assets/artworks/058.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "059",
+      "title": "Sky Harbor — II",
+      "category": "Environment",
+      "image": "assets/artworks/059.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "060",
+      "title": "Neon Megacity — II",
+      "category": "Environment",
+      "image": "assets/artworks/060.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "061",
+      "title": "Moonlit Empress — III",
+      "category": "Character",
+      "image": "assets/artworks/061.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "062",
+      "title": "Obsidian Duelist — III",
+      "category": "Character",
+      "image": "assets/artworks/062.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "063",
+      "title": "Sakura Oracle — III",
+      "category": "Character",
+      "image": "assets/artworks/063.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "064",
+      "title": "Sunfire Queen — III",
+      "category": "Character",
+      "image": "assets/artworks/064.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "065",
+      "title": "Frostbound Princess — III",
+      "category": "Character",
+      "image": "assets/artworks/065.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "066",
+      "title": "Crimson Ronin — III",
+      "category": "Character",
+      "image": "assets/artworks/066.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "067",
+      "title": "Celestial Archer — III",
+      "category": "Character",
+      "image": "assets/artworks/067.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "068",
+      "title": "Rose Knight — III",
+      "category": "Character",
+      "image": "assets/artworks/068.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "069",
+      "title": "Abyss Mage — III",
+      "category": "Character",
+      "image": "assets/artworks/069.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "070",
+      "title": "Neon Courier — III",
+      "category": "Character",
+      "image": "assets/artworks/070.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "071",
+      "title": "Floating Kingdom — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/071.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "072",
+      "title": "Dragon of Dawn — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/072.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "073",
+      "title": "Moonlit Shrine — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/073.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "074",
+      "title": "Crystal Cavern — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/074.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "075",
+      "title": "Aurora Citadel — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/075.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "076",
+      "title": "Sunken Palace — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/076.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "077",
+      "title": "Starfall Garden — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/077.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "078",
+      "title": "Volcanic Throne — III",
+      "category": "Fantasy",
+      "image": "assets/artworks/078.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "079",
+      "title": "Sky Harbor — III",
+      "category": "Environment",
+      "image": "assets/artworks/079.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "080",
+      "title": "Neon Megacity — III",
+      "category": "Environment",
+      "image": "assets/artworks/080.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "081",
+      "title": "Moonlit Empress — IV",
+      "category": "Character",
+      "image": "assets/artworks/081.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "082",
+      "title": "Obsidian Duelist — IV",
+      "category": "Character",
+      "image": "assets/artworks/082.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "083",
+      "title": "Sakura Oracle — IV",
+      "category": "Character",
+      "image": "assets/artworks/083.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "084",
+      "title": "Sunfire Queen — IV",
+      "category": "Character",
+      "image": "assets/artworks/084.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "085",
+      "title": "Frostbound Princess — IV",
+      "category": "Character",
+      "image": "assets/artworks/085.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "086",
+      "title": "Crimson Ronin — IV",
+      "category": "Character",
+      "image": "assets/artworks/086.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "087",
+      "title": "Celestial Archer — IV",
+      "category": "Character",
+      "image": "assets/artworks/087.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "088",
+      "title": "Rose Knight — IV",
+      "category": "Character",
+      "image": "assets/artworks/088.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "089",
+      "title": "Abyss Mage — IV",
+      "category": "Character",
+      "image": "assets/artworks/089.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "090",
+      "title": "Neon Courier — IV",
+      "category": "Character",
+      "image": "assets/artworks/090.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "091",
+      "title": "Floating Kingdom — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/091.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "092",
+      "title": "Dragon of Dawn — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/092.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "093",
+      "title": "Moonlit Shrine — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/093.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "094",
+      "title": "Crystal Cavern — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/094.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "095",
+      "title": "Aurora Citadel — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/095.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "096",
+      "title": "Sunken Palace — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/096.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "097",
+      "title": "Starfall Garden — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/097.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "098",
+      "title": "Volcanic Throne — IV",
+      "category": "Fantasy",
+      "image": "assets/artworks/098.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "099",
+      "title": "Sky Harbor — IV",
+      "category": "Environment",
+      "image": "assets/artworks/099.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "100",
+      "title": "Neon Megacity — IV",
+      "category": "Environment",
+      "image": "assets/artworks/100.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "101",
+      "title": "Moonlit Empress — V",
+      "category": "Character",
+      "image": "assets/artworks/101.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "102",
+      "title": "Obsidian Duelist — V",
+      "category": "Character",
+      "image": "assets/artworks/102.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "103",
+      "title": "Sakura Oracle — V",
+      "category": "Character",
+      "image": "assets/artworks/103.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "104",
+      "title": "Sunfire Queen — V",
+      "category": "Character",
+      "image": "assets/artworks/104.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "105",
+      "title": "Frostbound Princess — V",
+      "category": "Character",
+      "image": "assets/artworks/105.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "106",
+      "title": "Crimson Ronin — V",
+      "category": "Character",
+      "image": "assets/artworks/106.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "107",
+      "title": "Celestial Archer — V",
+      "category": "Character",
+      "image": "assets/artworks/107.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "108",
+      "title": "Rose Knight — V",
+      "category": "Character",
+      "image": "assets/artworks/108.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "109",
+      "title": "Abyss Mage — V",
+      "category": "Character",
+      "image": "assets/artworks/109.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "110",
+      "title": "Neon Courier — V",
+      "category": "Character",
+      "image": "assets/artworks/110.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "111",
+      "title": "Floating Kingdom — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/111.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "112",
+      "title": "Dragon of Dawn — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/112.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "113",
+      "title": "Moonlit Shrine — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/113.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "114",
+      "title": "Crystal Cavern — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/114.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "115",
+      "title": "Aurora Citadel — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/115.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "116",
+      "title": "Sunken Palace — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/116.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "117",
+      "title": "Starfall Garden — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/117.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "118",
+      "title": "Volcanic Throne — V",
+      "category": "Fantasy",
+      "image": "assets/artworks/118.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "119",
+      "title": "Sky Harbor — V",
+      "category": "Environment",
+      "image": "assets/artworks/119.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "120",
+      "title": "Neon Megacity — V",
+      "category": "Environment",
+      "image": "assets/artworks/120.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "121",
+      "title": "Moonlit Empress — VI",
+      "category": "Character",
+      "image": "assets/artworks/121.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "122",
+      "title": "Obsidian Duelist — VI",
+      "category": "Character",
+      "image": "assets/artworks/122.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "123",
+      "title": "Sakura Oracle — VI",
+      "category": "Character",
+      "image": "assets/artworks/123.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "124",
+      "title": "Sunfire Queen — VI",
+      "category": "Character",
+      "image": "assets/artworks/124.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "125",
+      "title": "Frostbound Princess — VI",
+      "category": "Character",
+      "image": "assets/artworks/125.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "126",
+      "title": "Crimson Ronin — VI",
+      "category": "Character",
+      "image": "assets/artworks/126.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "127",
+      "title": "Celestial Archer — VI",
+      "category": "Character",
+      "image": "assets/artworks/127.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "128",
+      "title": "Rose Knight — VI",
+      "category": "Character",
+      "image": "assets/artworks/128.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "129",
+      "title": "Abyss Mage — VI",
+      "category": "Character",
+      "image": "assets/artworks/129.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "130",
+      "title": "Neon Courier — VI",
+      "category": "Character",
+      "image": "assets/artworks/130.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "131",
+      "title": "Floating Kingdom — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/131.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "132",
+      "title": "Dragon of Dawn — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/132.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "133",
+      "title": "Moonlit Shrine — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/133.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "134",
+      "title": "Crystal Cavern — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/134.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "135",
+      "title": "Aurora Citadel — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/135.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "136",
+      "title": "Sunken Palace — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/136.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "137",
+      "title": "Starfall Garden — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/137.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "138",
+      "title": "Volcanic Throne — VI",
+      "category": "Fantasy",
+      "image": "assets/artworks/138.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "139",
+      "title": "Sky Harbor — VI",
+      "category": "Environment",
+      "image": "assets/artworks/139.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "140",
+      "title": "Neon Megacity — VI",
+      "category": "Environment",
+      "image": "assets/artworks/140.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "141",
+      "title": "Moonlit Empress — VII",
+      "category": "Character",
+      "image": "assets/artworks/141.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "142",
+      "title": "Obsidian Duelist — VII",
+      "category": "Character",
+      "image": "assets/artworks/142.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "143",
+      "title": "Sakura Oracle — VII",
+      "category": "Character",
+      "image": "assets/artworks/143.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "144",
+      "title": "Sunfire Queen — VII",
+      "category": "Character",
+      "image": "assets/artworks/144.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "145",
+      "title": "Frostbound Princess — VII",
+      "category": "Character",
+      "image": "assets/artworks/145.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "146",
+      "title": "Crimson Ronin — VII",
+      "category": "Character",
+      "image": "assets/artworks/146.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "147",
+      "title": "Celestial Archer — VII",
+      "category": "Character",
+      "image": "assets/artworks/147.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "148",
+      "title": "Rose Knight — VII",
+      "category": "Character",
+      "image": "assets/artworks/148.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "149",
+      "title": "Abyss Mage — VII",
+      "category": "Character",
+      "image": "assets/artworks/149.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "150",
+      "title": "Neon Courier — VII",
+      "category": "Character",
+      "image": "assets/artworks/150.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "151",
+      "title": "Floating Kingdom — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/151.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "152",
+      "title": "Dragon of Dawn — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/152.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "153",
+      "title": "Moonlit Shrine — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/153.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "154",
+      "title": "Crystal Cavern — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/154.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "155",
+      "title": "Aurora Citadel — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/155.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "156",
+      "title": "Sunken Palace — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/156.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "157",
+      "title": "Starfall Garden — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/157.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "158",
+      "title": "Volcanic Throne — VII",
+      "category": "Fantasy",
+      "image": "assets/artworks/158.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "159",
+      "title": "Sky Harbor — VII",
+      "category": "Environment",
+      "image": "assets/artworks/159.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "160",
+      "title": "Neon Megacity — VII",
+      "category": "Environment",
+      "image": "assets/artworks/160.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "161",
+      "title": "Moonlit Empress — VIII",
+      "category": "Character",
+      "image": "assets/artworks/161.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "162",
+      "title": "Obsidian Duelist — VIII",
+      "category": "Character",
+      "image": "assets/artworks/162.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "163",
+      "title": "Sakura Oracle — VIII",
+      "category": "Character",
+      "image": "assets/artworks/163.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "164",
+      "title": "Sunfire Queen — VIII",
+      "category": "Character",
+      "image": "assets/artworks/164.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "165",
+      "title": "Frostbound Princess — VIII",
+      "category": "Character",
+      "image": "assets/artworks/165.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "166",
+      "title": "Crimson Ronin — VIII",
+      "category": "Character",
+      "image": "assets/artworks/166.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "167",
+      "title": "Celestial Archer — VIII",
+      "category": "Character",
+      "image": "assets/artworks/167.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "168",
+      "title": "Rose Knight — VIII",
+      "category": "Character",
+      "image": "assets/artworks/168.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "169",
+      "title": "Abyss Mage — VIII",
+      "category": "Character",
+      "image": "assets/artworks/169.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "170",
+      "title": "Neon Courier — VIII",
+      "category": "Character",
+      "image": "assets/artworks/170.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "171",
+      "title": "Floating Kingdom — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/171.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "172",
+      "title": "Dragon of Dawn — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/172.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "173",
+      "title": "Moonlit Shrine — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/173.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "174",
+      "title": "Crystal Cavern — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/174.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "175",
+      "title": "Aurora Citadel — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/175.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "176",
+      "title": "Sunken Palace — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/176.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "177",
+      "title": "Starfall Garden — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/177.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "178",
+      "title": "Volcanic Throne — VIII",
+      "category": "Fantasy",
+      "image": "assets/artworks/178.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "179",
+      "title": "Sky Harbor — VIII",
+      "category": "Environment",
+      "image": "assets/artworks/179.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "180",
+      "title": "Neon Megacity — VIII",
+      "category": "Environment",
+      "image": "assets/artworks/180.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "181",
+      "title": "Moonlit Empress — IX",
+      "category": "Character",
+      "image": "assets/artworks/181.webp",
+      "status": "asset-pending",
+      "generation_prompt": "elegant silver-haired anime empress beneath a luminous full moon, intricate pearl jewelry, silk layers, cinematic lavender rim light, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "182",
+      "title": "Obsidian Duelist — IX",
+      "category": "Character",
+      "image": "assets/artworks/182.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black-haired anime swordsman in layered obsidian armor, violet energy blade, dramatic storm, refined metal details, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "183",
+      "title": "Sakura Oracle — IX",
+      "category": "Character",
+      "image": "assets/artworks/183.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime shrine maiden with flowing rose-pink hair, sakura petals, embroidered ivory kimono, soft dawn light, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "184",
+      "title": "Sunfire Queen — IX",
+      "category": "Character",
+      "image": "assets/artworks/184.webp",
+      "status": "asset-pending",
+      "generation_prompt": "regal anime queen in black and gold Egyptian-inspired ceremonial attire, turquoise gemstones, desert sunset, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "185",
+      "title": "Frostbound Princess — IX",
+      "category": "Character",
+      "image": "assets/artworks/185.webp",
+      "status": "asset-pending",
+      "generation_prompt": "silver-haired anime princess in crystalline ice couture, aurora ribbons, snow particles, luminous blue palace, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "186",
+      "title": "Crimson Ronin — IX",
+      "category": "Character",
+      "image": "assets/artworks/186.webp",
+      "status": "asset-pending",
+      "generation_prompt": "scarlet-haired wandering samurai in weathered lacquer armor, ember-lit dusk, elegant katana silhouette, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "187",
+      "title": "Celestial Archer — IX",
+      "category": "Character",
+      "image": "assets/artworks/187.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime archer with star-metal bow, midnight-blue cloak, constellations and floating temple ruins, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "188",
+      "title": "Rose Knight — IX",
+      "category": "Character",
+      "image": "assets/artworks/188.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime knight in ornate rose-gold armor, white cape, rose petals, grand cathedral at golden hour, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "189",
+      "title": "Abyss Mage — IX",
+      "category": "Character",
+      "image": "assets/artworks/189.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime sorceress in layered midnight robes, glowing runes, deep indigo magic, ancient library, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "190",
+      "title": "Neon Courier — IX",
+      "category": "Character",
+      "image": "assets/artworks/190.webp",
+      "status": "asset-pending",
+      "generation_prompt": "anime cyberpunk courier in technical streetwear, rain-slick neon alley, cyan and magenta reflections, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "191",
+      "title": "Floating Kingdom — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/191.webp",
+      "status": "asset-pending",
+      "generation_prompt": "majestic fantasy castle floating above a sea of clouds, waterfalls spilling into sky, crystalline spires, epic cinematic scale, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "192",
+      "title": "Dragon of Dawn — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/192.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enormous elegant dragon circling a sunlit mountain citadel, gold cloud edges, intricate scales, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "193",
+      "title": "Moonlit Shrine — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/193.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient Japanese shrine beside a reflective lake, cherry blossoms, giant moon, lanterns, cinematic night, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "194",
+      "title": "Crystal Cavern — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/194.webp",
+      "status": "asset-pending",
+      "generation_prompt": "vast luminous crystal cavern, turquoise and violet refracted light, waterfalls, atmospheric depth, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "195",
+      "title": "Aurora Citadel — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/195.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ice palace beneath vivid northern lights, snow-covered bridges, crystalline towers, blue-hour glow, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "196",
+      "title": "Sunken Palace — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/196.webp",
+      "status": "asset-pending",
+      "generation_prompt": "ancient underwater palace, luminous coral gardens, shafts of sunlight, elegant fantasy atmosphere, wide cinematic composition, intricate linework, high-detail anime key visual, polished lighting, crisp focus, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "197",
+      "title": "Starfall Garden — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/197.webp",
+      "status": "asset-pending",
+      "generation_prompt": "enchanted garden under falling stars, luminous flowers, stone bridges, dreamy midnight palette, three-quarter view, layered atmospheric depth, rich color grading, clean anatomy and refined materials, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "198",
+      "title": "Volcanic Throne — IX",
+      "category": "Fantasy",
+      "image": "assets/artworks/198.webp",
+      "status": "asset-pending",
+      "generation_prompt": "black volcanic fortress, molten rivers, ember storm, dramatic crimson sky, detailed architecture, dramatic backlight, elegant composition, micro-details in fabric and ornaments, sharp focal subject, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "199",
+      "title": "Sky Harbor — IX",
+      "category": "Environment",
+      "image": "assets/artworks/199.webp",
+      "status": "asset-pending",
+      "generation_prompt": "fantasy airship harbor above clouds, ornate airships, distant floating islands, bright cinematic daylight, soft volumetric light, delicate particles, balanced highlights, professional fantasy illustration finish, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    },
+    {
+      "id": "200",
+      "title": "Neon Megacity — IX",
+      "category": "Environment",
+      "image": "assets/artworks/200.webp",
+      "status": "asset-pending",
+      "generation_prompt": "towering futuristic anime city at night, wet reflective streets, magenta and electric-blue signs, atmospheric perspective, dynamic perspective, carefully rendered textures, controlled bloom, premium anime art direction, original character and environment design, no text, no watermark, no logo, no collage, high resolution, standalone artwork."
+    }
+  ]
+}
